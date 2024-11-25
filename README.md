@@ -5,7 +5,7 @@ This is a web-based stock tracker application that allows users to monitor stock
 **FEATURES**
 
 - Real-time stock price updates for user-specified tickers.
-- - Dynamic UI for adding and removing stock tickers.
+- Dynamic UI for adding and removing stock tickers.
 - Visual indicators for price changes, including color coding for percentage changes.
 - Local storage support to remember user-added tickers across sessions.
 - Responsive and interactive design using jQuery and CSS.
