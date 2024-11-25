@@ -10,10 +10,10 @@ This is a web-based stock tracker application that allows users to monitor stock
 - Local storage support to remember user-added tickers across sessions.
 - Responsive and interactive design using jQuery and CSS.
   Technologies Used
-  Backend:
+**BACKEND:**
 - Flask: A lightweight Python web framework for routing and serving the app.
 - yFinance: Python library for fetching stock market data.
-  Frontend:
+**FRONTEND:**
 - HTML/CSS: For structuring and styling the website.
 - JavaScript: For client-side interactivity.
 - jQuery: To simplify DOM manipulation and AJAX requests.
