@@ -19,3 +19,6 @@ This is a web-based stock tracker application that allows users to monitor stock
 - **HTML/CSS**: For structuring and styling the website.
 - **JavaScript**: For client-side interactivity.
 - **jQuery**: To simplify DOM manipulation and AJAX requests.
+
+
+I got the inspriation and learned from NeuralNine on youtube
